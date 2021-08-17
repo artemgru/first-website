@@ -1,0 +1,137 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', serif;
+}
+
+h1 {
+  margin-top: 50px;
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #52734D;
+}
+
+h2 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Dancing Script', cursive;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #52734D;
+}
+
+h3 {
+  font-family: 'Merriweather', sans-serif;
+  font-size: 2rem;
+  color: #52734D;
+}
+
+hr {
+  margin: 70px auto;
+  border-style: dotted none none;
+  border-width: 8px;
+  width: 8%;
+  border-color: rgba(0, 0, 0, 0.3);
+}
+
+p {
+  font-size: 1.5rem;
+  width: 40%;
+  line-height: 2;
+  margin: 0 auto;
+}
+
+ul {
+  display: table;
+  margin: 0 auto;
+}
+
+ol {
+  display: table;
+  margin: 0;
+}
+
+li {
+  text-align: left;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  letter-spacing: 2px;
+}
+
+a {
+  font-family: 'Montserrat', sans-serif;
+  color: #52734D;
+  margin-right: 10px;
+}
+
+table {
+  margin: 0 auto;
+  font-size: 1.2rem;
+}
+
+th {
+  padding-bottom: 10px;
+}
+
+td {
+  margin: 0;
+  letter-spacing: 1.5px;
+}
+
+.top-container {
+  background-color: #FEFFDE;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #DDFFBC;
+  padding-bottom: 100px;
+  padding-top: 100px;
+}
+
+.profile_photo {
+  width:200px;
+  height: 200px;
+}
+
+.learning_plan {
+
+}
+
+.learning_progress{
+
+}
+
+.learning_plan_left {
+  margin-right: 80px;
+  margin-top: 0;
+}
+
+.learning_plan_right {
+  margin-left: 80px;
+}
+
+.small_icon {
+  width: 20px;
+  height: 20px;
+}
+
+.bottom-container {
+  background-color: #91C788;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 60px;
+  right: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
